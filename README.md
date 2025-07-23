@@ -29,6 +29,70 @@ An Implementation of LoRa for **EmComm (Emergency Communication)** or **(TacComm
 - **Really apreciate** if your mind give me a feedbeack: [Submit Feedback](https://forms.gle/ndPy9DZC3oz5MFPu8)
 - **Support** me: [Pateron](https://www.patreon.com/YD1RUH)
 
+## Recommendation LoRa Configuration
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Environment</th>
+      <th>SF (Spreading Factor)</th>
+      <th>Bandwidth (kHz)</th>
+      <th>TX Power (dBm)</th>
+      <th>Gain (dB)</th>
+      <th>Purpose / Effect</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Urban (Dense Buildings)</td>
+      <td>SF9 – SF12</td>
+      <td>125</td>
+      <td>17–20</td>
+      <td>4–6</td>
+      <td>Good wall penetration; better reliability at the cost of data rate</td>
+    </tr>
+    <tr>
+      <td>Suburban (Houses, Low-rise)</td>
+      <td>SF8 – SF10</td>
+      <td>125–250</td>
+      <td>14–18</td>
+      <td>3–5</td>
+      <td>Balanced for moderate range and power efficiency</td>
+    </tr>
+    <tr>
+      <td>Rural (Open Field)</td>
+      <td>SF7 – SF9</td>
+      <td>250–500</td>
+      <td>14–17</td>
+      <td>0–3</td>
+      <td>Fast transmission, long distance in Line-of-Sight</td>
+    </tr>
+    <tr>
+      <td>Indoor (Short Distance)</td>
+      <td>SF7 – SF9</td>
+      <td>250–500</td>
+      <td>10–14</td>
+      <td>0–2</td>
+      <td>Low latency and power-efficient communication</td>
+    </tr>
+    <tr>
+      <td>Hilly or Forested Terrain</td>
+      <td>SF10 – SF12</td>
+      <td>125</td>
+      <td>17–20</td>
+      <td>4–6</td>
+      <td>Better performance through non-line-of-sight and foliage</td>
+    </tr>
+    <tr>
+      <td>Critical/Long-Range Application</td>
+      <td>SF11 – SF12</td>
+      <td>125</td>
+      <td>20</td>
+      <td>6</td>
+      <td>Max range and reliability, at the expense of speed and power</td>
+    </tr>
+  </tbody>
+</table>
+
 ## History Developing
 <table>
   <tr>
