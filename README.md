@@ -28,3 +28,92 @@ An Implementation of LoRa for EmComm (Emergency Communication) or (TacComm) Tact
 ## Feedback
 - **Really apreciate** if your mind give me a feedbeack: [Submit Feedback](https://forms.gle/ndPy9DZC3oz5MFPu8)
 - **Support** me: [Pateron](https://www.patreon.com/YD1RUH)
+
+## History Developing
+<table>
+  <tr>
+    <td>
+      ESP32 simple LoRa Communication
+    </td>
+    <td>
+      <ul>
+        <li>operate using serial USB</li>
+        <li>operate using Bluetooth Serial</li>
+      </ul>
+    </td>
+    <td>
+      <a href="https://x.com/octacons/status/1945113731215622381" target="_blank">footprint</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      Initiate using webUI hosted in TTGO LoRa32-OLED for interface communication
+    </td>
+    <td>
+      <ul>
+        <li>using identity (Callsign)</li>
+        <li>send message with LoRa</li>
+      </ul>
+    </td>
+    <td>
+      <a href="https://x.com/octacons/status/1946737701832823204" target="_blank">footprint</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Initiate using webUI hosted in TTGO LoRa32-OLED for interface communication
+    </td>
+    <td>
+      <ul>
+        <li>Adding Costumize SSID and Password hotspot over webUI</li>
+        <li>Adding LoRa configuration over WebUI:
+          <br>- Spreading Factor
+          <br>- Bandwidth
+          <br>- Gain
+          <br>- TX Power
+        </li>
+      </ul>
+    </td>
+    <td>
+      <a href="https://x.com/octacons/status/1947037142653517900" target="_blank">footprint</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Cryptography Feature
+    </td>
+    <td>
+      <ul>
+        <li>Input Key using Passphrase -> hashed (SHA3) -> save to SPIFFS</li>
+        <li>Enrypt Decrypt Message Feature</li>
+      </ul>
+    </td>
+    <td>
+      <a href="https://x.com/octacons/status/1947304588488650877" target="_blank">footprint</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Geo Location For Static Station
+    </td>
+    <td>
+      <ul>
+        <li>Configure beacon parameter
+          <br>- CALLSIGN
+          <br>- Interval duration TX
+          <br>- Latitude
+          <br>- Longitude
+        </li>
+        <li>Compas Navigation (heading north)</li>
+        <li>table list onther active node</li>
+      </ul>
+    </td>
+    <td>
+      <a href="https://x.com/octacons/status/1947605624105181541" target="_blank">footprint</a>
+    </td>
+  </tr>
+</table>
