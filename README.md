@@ -26,5 +26,5 @@ An Implementation of LoRa for EmComm (Emergency Communication) or (TacComm) Tact
 - **Key Gen**, if you want to chat privately with someone just make aggrement **passphrase** with your partner then **thick** Cheklist **Enable Encryption** to start secure chatting.
 
 ## Feedback
-Really apreciate if your mind give me a feedbeack: [Submit Feedback](https://forms.gle/ndPy9DZC3oz5MFPu8)
-**Support** me: [Pateron](https://www.patreon.com/YD1RUH)
+- Really apreciate if your mind give me a feedbeack: [Submit Feedback](https://forms.gle/ndPy9DZC3oz5MFPu8)
+- **Support** me: [Pateron](https://www.patreon.com/YD1RUH)
