@@ -26,12 +26,5 @@ An Implementation of LoRa for EmComm (Emergency Communication) or (TacComm) Tact
 - **Key Gen**, if you want to chat privately with someone just make aggrement **passphrase** with your partner then **thick** Cheklist **Enable Encryption** to start secure chatting.
 
 ## Star History
-<div>
-<a href="https://www.star-history.com/#YD1RUH/LoRa_EmComm&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=YD1RUH/LoRa_EmComm&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=YD1RUH/LoRa_EmComm&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=YD1RUH/LoRa_EmComm&type=Date" width="60%"/>
- </picture>
-</a>
-</div>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YD1RUH/LoRa_EmComm&type=Date)](https://www.star-history.com/#YD1RUH/LoRa_EmComm&Date)
