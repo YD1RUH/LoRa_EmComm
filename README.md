@@ -11,7 +11,13 @@ An Implementation of LoRa for **EmComm (Emergency Communication)** or **(TacComm
 - install ESP driver, download from [here](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads), choose `CP210x Windows Drivers`
 - download esptool, you can download form [here](https://github.com/espressif/esptool/releases)
 - unzip, then set the path directory of esptool that you unzip to `windows environtment variable`
+
+### TTGO LoRa32-OLED
 - on directory `LoRa_EmComm`, open CMD and execute this command: `esptool --chip esp32 --port COM[change your port Detected] --baud 460800 write-flash 0x10000 firmware.bin 0x290000 spiffs.bin`
+- wait until Upload Process done.
+
+### Heltec LoRa32 V2
+- on directory `LoRa_EmComm`, open CMD and execute this command: `esptool --chip esp32 --port COM[change your port Detected] --baud 460800 write-flash 0x10000 firmware_Heltec_V2.bin 0x290000 spiffs_Heltec_V2.bin`
 - wait until Upload Process done.
 
 ## How to use
