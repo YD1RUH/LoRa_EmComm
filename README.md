@@ -117,3 +117,6 @@ An Implementation of LoRa for **EmComm (Emergency Communication)** or **(TacComm
     </td>
   </tr>
 </table>
+
+## Next To Do ..
+- Range test
