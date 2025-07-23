@@ -20,11 +20,11 @@ An Implementation of LoRa for EmComm (Emergency Communication) or (TacComm) Tact
 3. Connect again to **LoRa_EmComm** hotspot with your new configuration.
 
 ### Feature
-- **Chat Room**, like a usual chat, but I've limited only for 220 Character.
-- **Gel Loc**, For beacon Your node location. Manually input **Latitude** and **Longitude**. Beacon **Interval** Start from 30 Second, to avoid collision packet.
-- **Config Menu**, you don't need to compile or recompile your ESP32, It can be configured over webUI. you can configure (**Spreading Factor**, **Bandwidth**, **Gain**, **TX Power**, **Frequency**).
-- **Key Gen**, if you want to chat privately with someone just make aggrement **passphrase** with your partner then **thick** Cheklist **Enable Encryption** to start secure chatting.
+- `Chat Room`, like a usual chat, but I've limited only for 220 Character.
+- `Gel Loc`, For beacon Your node location. Manually input **Latitude** and **Longitude**. Beacon **Interval** Start from 30 Second, to avoid collision packet.
+- `Config Menu`, you don't need to compile or recompile your ESP32, It can be configured over webUI. you can configure (**Spreading Factor**, **Bandwidth**, **Gain**, **TX Power**, **Frequency**).
+- `Key Gen`, if you want to chat privately with someone just make aggrement **passphrase** with your partner then **thick** Cheklist **Enable Encryption** to start secure chatting.
 
 ## Feedback
-- Really apreciate if your mind give me a feedbeack: [Submit Feedback](https://forms.gle/ndPy9DZC3oz5MFPu8)
+- **Really apreciate** if your mind give me a feedbeack: [Submit Feedback](https://forms.gle/ndPy9DZC3oz5MFPu8)
 - **Support** me: [Pateron](https://www.patreon.com/YD1RUH)
