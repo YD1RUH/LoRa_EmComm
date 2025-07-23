@@ -182,5 +182,6 @@ An Implementation of LoRa for **EmComm (Emergency Communication)** or **(TacComm
   </tr>
 </table>
 
-## Next To Do ..
+## Next To Do ...
 - Range test
+- Collaboaration build for another boards
