@@ -2,7 +2,7 @@
 An Implementation of LoRa for **EmComm (Emergency Communication)** or **(TacComm) Tactical Communication**
 
 <p>
-  <img src="https://github.com/YD1RUH/LoRa_EmComm/blob/main/image.jpg?raw=true" alt="LoRa_EmComm" width="60%">
+  <img src="https://github.com/YD1RUH/LoRa_EmComm/blob/main/image.jpg?raw=true" alt="LoRa_EmComm" width="80%">
 </p>
 
 ## How to install
