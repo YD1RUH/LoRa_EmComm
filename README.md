@@ -25,6 +25,6 @@ An Implementation of LoRa for EmComm (Emergency Communication) or (TacComm) Tact
 - **Config Menu**, you don't need to compile or recompile your ESP32, It can be configured over webUI. you can configure (**Spreading Factor**, **Bandwidth**, **Gain**, **TX Power**, **Frequency**).
 - **Key Gen**, if you want to chat privately with someone just make aggrement **passphrase** with your partner then **thick** Cheklist **Enable Encryption** to start secure chatting.
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=YD1RUH/LoRa_EmComm&type=Date)](https://www.star-history.com/#YD1RUH/LoRa_EmComm&Date)
+## Feedback
+Really apreciate if your mind give me a feedbeack: [Submit Feedback](https://forms.gle/ndPy9DZC3oz5MFPu8)
+**Support** me: [Pateron](https://www.patreon.com/YD1RUH)
